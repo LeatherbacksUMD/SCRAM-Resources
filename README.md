@@ -1,1 +1,1 @@
-# SCR-M-Resources
+# SCRAM-Resources
